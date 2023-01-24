@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "570970df819d13b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7b083a9466e07d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096805b610699bce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CMPE458/Week 2/assets/Pasted image 20230117163826.png"
+              }
+            }
+          },
+          {
+            "id": "96044468f35e64cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPE458/Week 2/SL -  Syntaxt Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c288a02f76d5fe08",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a03d48b0057675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8e62b1902816d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4ae6e5c5fa5d4eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e1c78ada88d1fe2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd460b3a624e7cf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e0b38198d5b054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc63349c5c1becda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CMPE458/Week 2/assets/Pasted image 20230117163826.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26174ca4816fabb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CMPE458/Week 2/assets/Pasted image 20230117163826.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27b34a902597f232",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10a16aed2eb2629b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CMPE458/Week 2/assets/Pasted image 20230117163826.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f8e62b1902816d8",
+  "lastOpenFiles": [
+    "CMPE458/Week 2/Semantic Mechanisms.md",
+    "CMPE458/Week 2/SSL Implementation.md",
+    "CMPE458/Week 2/SL -  Syntaxt Language.md",
+    "CMPE458/Week 2/assets/Pasted image 20230117163826.png",
+    "CMPE458/Week 2/assets/Pasted image 20230119174702.png",
+    "CMPE458/Week 2/assets/Pasted image 20230119173602.png",
+    "CMPE458/Week 2/assets/Pasted image 20230119174655.png",
+    "CMPE458/Week 2/assets/Pasted image 20230119173942.png"
+  ]
+}
